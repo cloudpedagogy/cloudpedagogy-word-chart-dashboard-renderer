@@ -11,9 +11,13 @@ Convert editable Word tables into a responsive dashboard containing bar, line, s
 - [Example QA report](output/chart_dashboard_example/qa_report.md)
 - [Automated tests](tests/test_render_chart_dashboard.py)
 
-After enabling GitHub Pages, the live demonstration will be:
+## Live Demo
 
-https://cloudpedagogy.github.io/cloudpedagogy-word-chart-dashboard-renderer/output/chart_dashboard_example/
+[View the Word Chart Dashboard Renderer demo](http://cloudpedagogy-word-chart-dashboard-renderer.s3-website.eu-west-2.amazonaws.com/)
+
+## Screenshot
+
+![Word Chart Dashboard Renderer screenshot](img/screenshot.png)
 
 ## Quick start
 
